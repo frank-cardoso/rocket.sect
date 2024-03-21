@@ -7,7 +7,7 @@
   <li>CSS</li>
 </ul>
 <h2>💻 Projeto</h2>
-<p>Este projeto foi desenvolvido com o objetivo de criar um timer robusto e flexível, permitindo a fácil integração e manutenção do código. Ao adotar a modularização, torna-se mais simples organizar e gerenciar as funcionalidades do timer.</p>
+<p>Neste projeto recriei uma aplicação, a partir de um layout que foi passado.</p>
 </ul>
 
 <h2>🔗 Página</h2>
